@@ -1,0 +1,15 @@
+---
+application:
+  name: "veracitymusic"
+  project: "veracitymusic"
+  organization: "QoveryCommunity"
+databases:
+- type: "MONGODB"
+  name: "veracitymusicdb"
+  version: "4.4"
+routers:
+- name: "main-veracitymusic"
+  routes:
+  - application_name: "veracitymusic"
+    paths:
+    - "/*"
