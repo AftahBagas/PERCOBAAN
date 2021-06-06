@@ -1,6 +1,6 @@
 {
   "name": "BujelMusicBot",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by BujelProject.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/notxteam/BujelMusicBot",
   "stack": "container",
