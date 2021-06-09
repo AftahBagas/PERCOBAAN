@@ -61,8 +61,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Watch On YouTube 🎬",
-                        url=f"{url}")
+                        text="🌀 Group Support 🌀",
+                        url=f"https://t.me/VcgMusicGroup")
                    
                 ]
             ]
@@ -72,8 +72,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Watch On YouTube 🎬",
-                        url=f"{url}")
+                        text="🌀 Group Support 🌀",
+                        url=f"https://t.me/VcgMusicGroup")
                    
                 ]
             ]
