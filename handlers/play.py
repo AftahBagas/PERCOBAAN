@@ -27,8 +27,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🔊 Channel",
-                        url="https://t.me/QintilQuda")
+                        text="🔊 Group Support",
+                        url="https://t.me/VcgMusicGroup")
                    
                 ]
             ]
