@@ -5,6 +5,7 @@ from pyrogram.types import Message, Voice
 
 from callsmusic import callsmusic, queues
 
+import ffmpeg
 import converter
 from downloaders import youtube
 
